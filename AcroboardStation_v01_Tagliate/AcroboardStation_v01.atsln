@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "AcroboardStation_v01", "AcroboardStation_v01\AcroboardStation_v01.cproj", "{5324E1B3-EF58-4BCF-8B95-9A37D281AF1B}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Tagliate", "tagliate\Tagliate.cproj", "{1CE97019-1155-4186-B8D2-1163A6383371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_pedantic|AVR = Debug_pedantic|AVR
+		Debug|AVR = Debug|AVR
+		Release_Develop|AVR = Release_Develop|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5324E1B3-EF58-4BCF-8B95-9A37D281AF1B}.Debug_pedantic|AVR.ActiveCfg = Debug_pedantic|AVR
+		{5324E1B3-EF58-4BCF-8B95-9A37D281AF1B}.Debug_pedantic|AVR.Build.0 = Debug_pedantic|AVR
+		{5324E1B3-EF58-4BCF-8B95-9A37D281AF1B}.Debug|AVR.ActiveCfg = Debug|AVR
+		{5324E1B3-EF58-4BCF-8B95-9A37D281AF1B}.Debug|AVR.Build.0 = Debug|AVR
+		{5324E1B3-EF58-4BCF-8B95-9A37D281AF1B}.Release_Develop|AVR.ActiveCfg = Release_Develop|AVR
+		{5324E1B3-EF58-4BCF-8B95-9A37D281AF1B}.Release_Develop|AVR.Build.0 = Release_Develop|AVR
+		{5324E1B3-EF58-4BCF-8B95-9A37D281AF1B}.Release|AVR.ActiveCfg = Release|AVR
+		{5324E1B3-EF58-4BCF-8B95-9A37D281AF1B}.Release|AVR.Build.0 = Release|AVR
+		{1CE97019-1155-4186-B8D2-1163A6383371}.Debug_pedantic|AVR.ActiveCfg = Debug|AVR
+		{1CE97019-1155-4186-B8D2-1163A6383371}.Debug_pedantic|AVR.Build.0 = Debug|AVR
+		{1CE97019-1155-4186-B8D2-1163A6383371}.Debug|AVR.ActiveCfg = Debug|AVR
+		{1CE97019-1155-4186-B8D2-1163A6383371}.Debug|AVR.Build.0 = Debug|AVR
+		{1CE97019-1155-4186-B8D2-1163A6383371}.Release_Develop|AVR.ActiveCfg = Release|AVR
+		{1CE97019-1155-4186-B8D2-1163A6383371}.Release_Develop|AVR.Build.0 = Release|AVR
+		{1CE97019-1155-4186-B8D2-1163A6383371}.Release|AVR.ActiveCfg = Release|AVR
+		{1CE97019-1155-4186-B8D2-1163A6383371}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
